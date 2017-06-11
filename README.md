@@ -6,6 +6,7 @@
 ##### npm install
 ##### node server.js
 
+## Features
 
 ##### User can register into Application.
 ##### After User successfully register trigger UserEvent via EventEmitter to send "Welcome Email" via SMTP.
