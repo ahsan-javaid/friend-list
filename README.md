@@ -1,6 +1,12 @@
 # Friend List Application
 ## Live Demo: http://my-friend-list.herokuapp.com
 
+### Installation
+##### clone and go to main directory
+##### npm install
+##### node server.js
+
+
 ##### User can register into Application.
 ##### After User successfully register trigger UserEvent via EventEmitter to send "Welcome Email" via SMTP.
 ##### Authentication of users with passport.js
